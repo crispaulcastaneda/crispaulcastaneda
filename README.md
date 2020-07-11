@@ -1,5 +1,3 @@
-### Hi there 👋 I am Cristian Paul Castañeda
-
 <!--
 **crispaulcastaneda/crispaulcastaneda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### About Me
+### About
 I am an aspiring JavaScript Developer working my skills and growing with creating activities and post it here in GitHub.
 I'm currently learning with technologies and Operating Systems like UNIX 
 frameworks(JS): VUE
