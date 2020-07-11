@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 ### About Me
-I am an aspiring JavaScript Developer working on my skills and growing with creating activities and post it here in GitHub.
+I am an aspiring JavaScript Developer working my skills and growing with creating activities and post it here in GitHub.
 I'm currently learning with technologies and Operating Systems like UNIX 
 frameworks(JS): VUE
