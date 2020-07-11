@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### ABOUT
+### About Me
 I am an aspiring JavaScript Developer working on my skills and growing with creating activities and post it here in GitHub.
-I currently learning some technologies, How the OS Functions, the commands mostly in UNIX, JS Frameworks like VUE.
+I'm currently learning with technologies and Operating Systems like UNIX 
+frameworks(JS): VUE
