@@ -6,3 +6,5 @@ Still learning and keeping update for my JavaScript Skills:
 * NodeJS
 
 Looking forward to create more and contribute to community for the better.
+
+[DEV](http://dev.to)
