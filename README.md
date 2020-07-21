@@ -7,4 +7,4 @@ Still learning and keeping update for my JavaScript Skills:
 
 Looking forward to create more and contribute to community for the better.
 
-[DEV](http://dev.to)
+[DEV](http://dev.to/thedevcristian)
