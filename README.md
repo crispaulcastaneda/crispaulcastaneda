@@ -22,6 +22,6 @@ I am a Frontend Developer based from Philippines.
 
 ## Community
 
-[![Community](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg")](https://dev.to/thedevcristian)
+[![Cristian Paul Castañeda's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/thedevcristian)
 
 ## 🛠 Building...
