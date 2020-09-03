@@ -1,18 +1,23 @@
-Hello 👦
+# Yow, I'm Cristian Paul Castañeda (:computer:)
 
-I am a Front-End Developer working with my skills to become a Fullstack Developer. 
-Still learning and keeping update for my JS skills:
+I am a Frontend Developer based from Philippines.
 
-Library + Server Side
-* ReactJS + Redux
+- 🚧 Currently learning and creating projects.
+- 💯 2020 Goals: Get a job, contribute to open source projects and share ideas.
+- 💭 You need some nerve to make the impossible to be possible.
 
-Backend
-* NodeJS
+## Technologies 📊
+![HTML5](https://img.icons8.com/color/30/html-5.png)
+![CSS3](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![NodeJS](https://img.icons8.com/color/30/nodejs.png)
+![Github](https://img.icons8.com/material-outlined/30/github.png)
+![Git](https://img.icons8.com/color/30/git.png)
+![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![ReactJS](https://img.icons8.com/color/30/react-native.png)
+![Windows](https://img.icons8.com/color/30/windows-10.png)
+![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)
+![Linux](https://img.icons8.com/color/30/linux.png)
+![Console](https://img.icons8.com/color/30/console.png)
 
-Database:
-
-* SQL / PostgreSQL
-
-Looking forward to create more and contribute to community for the better.
-
-[DEV](http://dev.to/thedevcristian)
+## 🛠 Building...
