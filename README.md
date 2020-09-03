@@ -20,4 +20,8 @@ I am a Frontend Developer based from Philippines.
 ![Linux](https://img.icons8.com/color/30/linux.png)
 ![Console](https://img.icons8.com/color/30/console.png)
 
+## Community
+
+[![Community](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg")](https://dev.to/thedevcristian)
+
 ## 🛠 Building...
