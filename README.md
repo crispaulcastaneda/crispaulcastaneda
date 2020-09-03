@@ -32,6 +32,10 @@ You can find me at:
   <img src="https://www.codewars.com/assets/logos/logo-square-paper-bg-c3d2b1eb4fb35d75b0c0c0e3b74616fab527afdce9d1d3184624cf0b4e950357.jpg" height="30" width="30">
 </a>
 
+<a href="https://stackoverflow.com/users/9783217/cristian-paul">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvpLlYpyJL2AD5Ck454xrIvH34bu4skHesOA&usqp=CAU" height="30" width="30">
+</a>
+
 
 ## My GitHub Status
 
