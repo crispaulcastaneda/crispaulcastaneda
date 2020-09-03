@@ -22,9 +22,17 @@ I am a Frontend Developer based from Philippines.
 
 ## Community
 
-You can find me at <a href="https://dev.to/thedevcristian">
+You can find me at:
+
+<a href="https://dev.to/thedevcristian">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Cristian Paul Castañeda's DEV Profile" height="30" width="30">
 </a>
+
+<a href="https://www.codewars.com/users/crispaulcastaneda">
+  <img src="https://www.codewars.com/assets/logos/logo-square-paper-bg-c3d2b1eb4fb35d75b0c0c0e3b74616fab527afdce9d1d3184624cf0b4e950357.jpg" height="30" width="30">
+</a>
+
+
 ## My GitHub Status
 
 <a href="https://github.com/crispaulcastaneda/crispaulcastaneda">
