@@ -1,4 +1,4 @@
-# Yow, I'm Cristian Paul Castañeda (:computer:)
+# Yow, I'm Cristian Paul Castañeda :computer:
 
 I am a Frontend Developer based from Philippines.
 
