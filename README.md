@@ -22,6 +22,17 @@ I am a Frontend Developer based from Philippines.
 
 ## Community
 
-[![Cristian Paul Castañeda's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/thedevcristian)
+You can find me at <a href="https://dev.to/thedevcristian">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Cristian Paul Castañeda's DEV Profile" height="30" width="30">
+</a>
+## My GitHub Status
+
+<a href="https://github.com/crispaulcastaneda/crispaulcastaneda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crispaulcastaneda&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/crispaulcastaneda/crispaulcastaneda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crispaulcastaneda&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
 
 ## 🛠 Building...
