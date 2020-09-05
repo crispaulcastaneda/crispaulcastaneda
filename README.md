@@ -3,7 +3,6 @@
 I am a Frontend Developer based from Philippines.
 
 - 🚧 Currently learning and creating projects.
-- 💯 2020 Goals: Get a job, contribute to open source projects and share ideas.
 - 💭 You need some nerve to make the impossible to be possible.
 
 ## Technologies 📊
