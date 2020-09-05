@@ -9,6 +9,7 @@ I am a Frontend Developer based from Philippines.
 ## Technologies 📊
 ![HTML5](https://img.icons8.com/color/30/html-5.png)
 ![CSS3](https://img.icons8.com/color/30/css3.png)
+![SASS](https://img.icons8.com/color/48/000000/sass-avatar.png")
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
 ![NodeJS](https://img.icons8.com/color/30/nodejs.png)
 ![Github](https://img.icons8.com/material-outlined/30/github.png)
