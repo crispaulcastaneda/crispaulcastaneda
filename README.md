@@ -1,6 +1,6 @@
 # Hello people on the Internet 🐒
 
-![Cristian Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=crispaulcastaneda&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=0E1217)
+![Cristian Paul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=crispaulcastaneda&title_color=fff&icon_color=8B959E&text_color=9f9f9f&bg_color=22272E)
 
 I'm Cristian Paul Castañeda, Web Developer specializing in Frontend Development based from Philippines.
 
