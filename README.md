@@ -6,4 +6,4 @@ Known for delivering projects with 90% maintainable code, reducing website error
 
 Completed projects that involve Interactive landing pages, Landing pages for Digital Marketing, and HTML email for customer relationship management. My skills and willingness to learn reinforces my ability to deliver top-notch results.
 
-You can email me for projects <a href="mailto:=cristianpaul_c@yahoo.com?Subject=Hello" target="_top">cristianpaul_c@yahoo.com</a>
+You can email me for projects <a href="mailto:=cristianpaul.castaneda@yahoo.com?Subject=Hello" target="_top">cristianpaul.castaneda@yahoo.com</a>
